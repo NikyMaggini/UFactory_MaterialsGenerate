@@ -1,0 +1,5 @@
+Mat Color 0 255 0 Texture 0 Emissive 0 0 255
+Mat Color 255 0 0 Emissive 0 0 255
+Mat Color 0 0 255 Texture 1 Normal 0
+Mat Color 100 0 255 Normal 0
+Mat Color 0 10 255 Emissive 0 0 255 Normal 0
